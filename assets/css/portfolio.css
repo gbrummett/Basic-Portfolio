@@ -51,7 +51,7 @@ header {
 }
 
 footer {
-    position: absolute;
+    position: relative;
     background-color: #666666;
     height: 50px;
     width: 100%;
@@ -108,10 +108,10 @@ img {
 
 .pic1 {
     float: left;
+    position: relative;
 }
 
 .pic2 {
-    float: left;
 }
 
 .pic3 {
@@ -119,9 +119,15 @@ img {
 }
 
 .pic4 {
-    float: left;
 }
 
-.pic5 {
+.pic5 
 
+.div2-1 {
+    width: 50%;
+    position: relative;
+}
+
+h3 {
+    
 }
